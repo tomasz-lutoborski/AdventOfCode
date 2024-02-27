@@ -1,7 +1,4 @@
-module Lib
-  ( someFunc,
-  )
-where
+module Lib where
 
-someFunc :: IO ()
-someFunc = putStrLn "hey"
+runApp :: IO ()
+runApp = putStrLn "Hello, World!"

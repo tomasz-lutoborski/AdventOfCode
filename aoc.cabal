@@ -32,6 +32,7 @@ library
   import:          common-options
   hs-source-dirs:  src
   exposed-modules: Lib
+                 , Year2015.Day1
   build-depends:
     , containers
     , mtl
