@@ -1,6 +1,5 @@
-import Lib
-import Year2015.Day1
+import qualified Year2015.Day5 as Code
 
 main :: IO ()
 main = do
-  Year2015.Day1.run
+  Code.run

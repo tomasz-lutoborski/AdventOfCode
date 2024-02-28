@@ -33,9 +33,17 @@ library
   hs-source-dirs:  src
   exposed-modules: Lib
                  , Year2015.Day1
+                 , Year2015.Day2
+                 , Year2015.Day3
+                 , Year2015.Day4
+                 , Year2015.Day5
   build-depends:
     , containers
     , mtl
+    , text
+    , pureMD5
+    , bytestring
+    , split
 
 executable aoc-exe
   import:         common-options
