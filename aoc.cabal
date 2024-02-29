@@ -39,6 +39,10 @@ library
                  , Year2015.Day5
                  , Year2016.Day1
                  , Year2016.Day2
+                 , Year2016.Day3
+                 , Year2016.Day4
+                 , Year2016.Day5
+                 , Year2017.Day1
   build-depends:
     , containers
     , mtl
