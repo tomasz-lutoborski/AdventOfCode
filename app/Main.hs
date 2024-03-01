@@ -1,4 +1,4 @@
-import qualified Year2017.Day1 as Code
+import qualified Year2018.Day1 as Code
 
 main :: IO ()
 main = do
